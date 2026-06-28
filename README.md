@@ -106,4 +106,12 @@ Este sistema usa técnicas de persuasión y psicología de venta. La línea es c
 
 ## Licencia
 
-MIT — uso libre. Sintetiza técnicas públicas de marketing de contenido y respuesta directa, organizadas como método aplicable con IA.
+© 2026 Growth Project Co — Publicado bajo licencia MIT de uso abierto.
+
+Puedes usar, copiar, modificar y distribuir este skill libremente, con o sin fines comerciales, siempre que mantengas este aviso de copyright.
+
+## Disclaimer
+
+Este skill se entrega sin garantía de resultados de ningún tipo. Growth Project Co no se responsabiliza por pérdidas económicas, decisiones de negocio, ni por el desempeño de campañas o embudos construidos con él. Los resultados dependen exclusivamente de la ejecución, el producto y las condiciones de mercado de cada usuario.
+
+El contenido de este repositorio es de carácter educativo e informativo. Nada aquí constituye asesoría financiera, legal ni comercial.
